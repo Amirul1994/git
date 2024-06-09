@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-this file stores login logs
-=======
 this file store login logs
->>>>>>> login
+<<<<<<< HEAD
 changed in master
+=======
+
+file has been changed in new branch
+>>>>>>> new-branch
